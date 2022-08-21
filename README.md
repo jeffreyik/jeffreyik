@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+### I'm Jeffrey
+
+A frontend developer and UI/UX designer, i'm interested in making creative 
+and user friendly wbesites.
 
 <!--
 **jeffreyik/jeffreyik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
